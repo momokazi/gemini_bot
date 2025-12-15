@@ -4,7 +4,7 @@ import '../models/message.dart';
 
 // NOTE: Replace this with your actual API key, ideally from a secure location
 // like environment variables, not hardcoded.
-const String _apiKey = 'AIzaSyAEmwwmAj-jmsVOCfyhktdZ3klWDo4QUNg';
+const String _apiKey = 'API-KEY';
 
 class GeminiService {
   final GenerativeModel _model;
